@@ -1,4 +1,4 @@
-🦅 Carcará Project
+## 🦅 Carcará Project
 
 O **Carcará Project** é uma aplicação web desenvolvida em Next.js, voltada para o oferecimento de **mentoria financeira**.  
 O objetivo é criar um site simples, onde usuários possam:
@@ -9,7 +9,7 @@ O objetivo é criar um site simples, onde usuários possam:
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 - Next.js
 - Javascript
 - TailwindCSS
@@ -21,7 +21,7 @@ carcara-project/
 
 
 
-## ⚙️ Como rodar o projeto
+##  Como rodar o projeto
 1. Clone este repositório:
 
    ```bash
